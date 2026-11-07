@@ -1,0 +1,10 @@
+/* Bold typography across the whole site */
+html{font-size:16px}
+body,button,input,select,textarea,.app-shell,.adm-shell{font-family:'DM Sans',system-ui,sans-serif;font-weight:600}
+h1,h2,h3,h4{font-weight:800!important}
+.hero h1,.section-heading h2,.page-content h2,.modal-top h2,.empty-state h3,.panel-heading h3,.room-info h3,.booking-details h3{font-family:'Playfair Display',serif;font-weight:800!important}
+strong,b,th,label{font-weight:800}
+.nav-item,.view-room,.primary-btn,.hero-cta,.text-link,.type-filters button,.inventory-tabs button{font-weight:800}
+p,small,span{font-weight:inherit}
+input,select,textarea{font-weight:700}
+::placeholder{font-weight:600}
